@@ -1,4 +1,4 @@
-# Titanic: Machine Learning from Disaster   转
+# Titanic: Machine Learning from Disaster   
 
 **Kaggle 泰坦尼克号幸存预测**
 
